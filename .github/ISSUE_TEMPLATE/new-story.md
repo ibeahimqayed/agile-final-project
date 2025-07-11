@@ -1,5 +1,5 @@
 ---
-name: New Lap
+name: New Story
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
