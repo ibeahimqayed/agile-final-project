@@ -7,9 +7,7 @@ assignees: ''
 
 ---
 
-## User Story
-
-As a [type of user],  
+As an [type of user],  
 I need [some goal],  
 So that [some reason or value].
 
